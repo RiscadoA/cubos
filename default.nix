@@ -118,7 +118,7 @@ stdenv.mkDerivation {
   '';
 
   meta = with lib; {
-    homepage = "https://cubosengine.org";
+    homepage = "https://cubos.riscadoa.com";
     description = "A modern C++ game engine";
     license = licenses.mit;
     platforms = with platforms; linux ++ darwin;

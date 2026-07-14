@@ -110,7 +110,7 @@ int main(int argc, char** argv)
             commands.create()
                 .add(UIElement{
                     .offset = {0, -20}, .size = {100, 100}, .pivot = {0.5F, 0.5F}, .anchor = {0.5F, 1.0F}, .layer = 2})
-                .add(UIText{.text = "cubosengine.org",
+                .add(UIText{.text = "cubos.riscadoa.com",
                             .color = {0.13, 0.14, 0.15, 1},
                             .fontSize = 48.0F,
                             .fontAtlas{AnyAsset{"bd0387d2-af3d-4c65-8561-33f5bcf6ab37"}}})

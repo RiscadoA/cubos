@@ -5,7 +5,7 @@
 # **Cubos** Engine
 
 <p align="center">
-  <a href="https://cubosengine.org">
+  <a href="https://cubos.riscadoa.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/images/CubosLogoDarkMode.png">
       <source media="(prefers-color-scheme: light)" srcset="docs/images/CubosLogoLightMode.png">
@@ -25,7 +25,7 @@ highly flexible.
 
 ### Learn more
 
-Check out the project's [website](https://cubosengine.org) which
+Check out the project's [website](https://cubos.riscadoa.com) which
 contains the documentation, guides and examples on how to use the engine.
 
 ### Who is making this engine
